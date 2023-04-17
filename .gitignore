@@ -9,6 +9,5 @@ yarn-error.log*
 .vscode
 node_modules
 **/.DS_Store
-.cache
 test/assets
 test/.cache

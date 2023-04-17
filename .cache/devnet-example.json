@@ -1,0 +1,72 @@
+{
+  "program": {
+    "uuid": "gidJy3",
+    "candyMachine": "gidJy37cwDiBBum5jxYyWzU3koRsBywdNHfmReUQtnA",
+    "collection": "GnUE1JRpHnUzHebjaQxAhEfxscmvD16fUer4QYj4pPGE"
+  },
+  "items": {
+    "0": {
+      "link": "https://nftstorage.link/ipfs/bafybeifjpr2f2ncrl77f66lax5hbvhpbfyh62cilhivsm5mkfjx5f4inua/metadata.json",
+      "name": "Number #0001",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "1": {
+      "link": "https://nftstorage.link/ipfs/bafybeih7mbwjonblpuxlljjcdllmchbzz5qunyqnpztt7opc2u2bmi6e6q/metadata.json",
+      "name": "Number #0002",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "2": {
+      "link": "https://nftstorage.link/ipfs/bafybeihcbyj5vlh4hw46rczkmd2xqz5gincd6icu4fl3s5zahfgqyo7cx4/metadata.json",
+      "name": "Number #0003",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "3": {
+      "link": "https://nftstorage.link/ipfs/bafybeihsy7a44kwhbtaw7kng4ogws4surtkm4jvzisnzidetywcwkxythe/metadata.json",
+      "name": "Number #0004",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "4": {
+      "link": "https://nftstorage.link/ipfs/bafybeidtqu5ppirjnpivfglki4objeq3e6c77tmsschimyyxqrxseaixpa/metadata.json",
+      "name": "Number #0005",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "5": {
+      "link": "https://nftstorage.link/ipfs/bafybeibnan7p2xcd2vc2sbj7rtr3bkqonqrt3lsfonf42zrlyawove7r6i/metadata.json",
+      "name": "Number #0006",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "6": {
+      "link": "https://nftstorage.link/ipfs/bafybeigf56grw7ltbjkcyjlobeq6qb5l2kzggjc5flzkkruhxbbur6tnde/metadata.json",
+      "name": "Number #0007",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "7": {
+      "link": "https://nftstorage.link/ipfs/bafybeihwqa3dhpzo4gigehv43olatmw6catngqrtskl47matc2rf56y7n4/metadata.json",
+      "name": "Number #0008",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "8": {
+      "link": "https://nftstorage.link/ipfs/bafybeiba36vf7t6t2qemf2lguz5ktsdohb44yhxkr3n4tcvjsgn3xrs7jy/metadata.json",
+      "name": "Number #0009",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "9": {
+      "link": "https://nftstorage.link/ipfs/bafybeie63wt5wc3mm265jvq7vf77dcrfpuv6c7ssllkjytd3mqhmnmdmtq/metadata.json",
+      "name": "Number #0010",
+      "onChain": true,
+      "verifyRun": true
+    }
+  },
+  "env": "devnet",
+  "cacheName": "example",
+  "startDate": "64110a80"
+}
