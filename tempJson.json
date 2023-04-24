@@ -1,0 +1,23 @@
+{
+  "name": "Number #0006",
+  "symbol": "NB",
+  "description": "Collection of 10 numbers on the blockchain. This is the number 1/10.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/undefined",
+  "attributes": [
+    { "trait_type": "Layer-1", "value": "0" },
+    { "trait_type": "Layer-2", "value": "0" },
+    { "trait_type": "Layer-3", "value": "0" },
+    { "trait_type": "Layer-4", "value": "1" }
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "6bULSSsSBpc6y1xMvZH6CqQstJmXZyrRLRFTeYBDqpe4",
+        "share": 100
+      }
+    ],
+    "files": [{ "uri": "https://ipfs.io/ipfs/undefined", "type": "image/png" }]
+  },
+  "collection": { "name": "numbers", "family": "numbers" }
+}
